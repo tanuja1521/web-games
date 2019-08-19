@@ -1,0 +1,16 @@
+#btn{
+	position: absolute;
+	left: 450px;
+	
+	padding: 5px;
+	font-size: 20px;
+	color: white;
+	background-color: grey;
+	box-sizing: border-box;
+	border: none;
+}
+#canvas{
+	left: 10%;
+	top: 10%;
+	position: absolute;
+}
