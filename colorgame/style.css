@@ -1,0 +1,51 @@
+*{
+	margin: 0px;
+}
+h1{
+	color: white;
+	padding: 1% 0;
+	text-align: center;
+	background-color: steelblue;
+}
+body{
+	background-color: black;
+}
+.square{
+	padding-bottom: 30%;
+	width:30%;
+	background-color: purple;
+	border-radius: 10%;
+	margin: 1.66%;
+	float: left;
+}
+.container{
+	margin: 5% auto;
+	max-width: 600px; 
+}
+#strip{
+	height: 30px;
+	background-color: white;
+	color: steelblue;
+	text-align: center;
+}
+button{
+	height: 30px;
+	border: none;
+	color: steelblue;
+	background-color: white;
+	padding: 0 20px;
+	font-weight: bold;
+}
+button:hover{
+	background-color: steelblue;
+	color: white;
+}
+.selected{
+	background-color: steelblue;
+	color: white;
+	/text-decoration-style: none;/
+}
+#message{
+	width : 20%;
+	display: inline-block;
+}
